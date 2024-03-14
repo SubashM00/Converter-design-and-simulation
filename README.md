@@ -1,5 +1,3 @@
-![ex 1](https://github.com/SubashM00/Converter-design-and-simulation/assets/144870586/60bab67c-7f9d-406c-b526-65ac7aabe959)# Converter-design-and-simulation
-
 # Aim
 To design and simulate AC to DC converter & DC voltage regulator using proteus.
 
